@@ -5,7 +5,7 @@ buildscript {
     }
 
     dependencies {
-        classpath 'com.bear.plugin:hello:1.0.0'
+        classpath 'com.bear.plugin:dependency:1.0.0'
     }
 }
 
